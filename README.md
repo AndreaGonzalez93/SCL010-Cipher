@@ -138,7 +138,7 @@ como toda la configuración de dependencias y tests de ejemplo:
 └── test
     ├── cipher.spec.js
     ├── headless.js
-    └── index.html
+    
 ```
 
 El _boilerplate_ incluye tareas que ejecutan [eslint](https://eslint.org/) y

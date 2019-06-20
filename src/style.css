@@ -1,1 +1,43 @@
-/* Acá va tu código */
+body{
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+button{
+    border-radius: 20px;
+    padding: 7px 18px;
+    color: #5f5f5f;
+    background-color: #ffffff;
+    border: 2px solid #c5c2c2;
+    font-weight: bold;
+    box-shadow: 5px 5px #e2e1e1
+} 
+
+button:hover{
+    color: white;
+    background-color: #c5c2c2;
+    cursor: pointer;
+}
+
+#logo-start{
+    width: 13%;
+    height: 13%;
+}
+#logo-start1{
+    width: 13%;
+    height: 13%;
+
+}
+#logo-start2{
+    width: 13%;
+    height: 13%;
+}
+
+#error-input{
+    color:  #c42626;
+}
+
+#error-inputd{
+    color :  #c42626 ;
+}
