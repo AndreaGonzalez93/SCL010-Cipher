@@ -19,8 +19,8 @@ describe('cipher', () => {
     it('debería retornar "3456789012" para "0123456789" con offset 33', () => {
       assert.equal(window.cipher.encode("0123456789", 33), "3456789012")
     });
-    it ('debería retornar "false" para "hola mundo" con offset 33', () => {
-      assert.equal(window.cipher.encode("hola mundo", 33), false)
+    it ('debería retornar "false" para "hola mundo/" con offset 33', () => {
+      assert.equal(window.cipher.encode("hola mundo/", 33), false)
     });
   });
 
@@ -39,8 +39,8 @@ describe('cipher', () => {
     it('debería retornar "0123456789" para "3456789012" con offset 33', () => {
       assert.equal(window.cipher.decode("3456789012", 33), "0123456789")
     });
-    it ('debería retornar false para "hola mundo" con offset 33', () => {
-      assert.equal(window.cipher.encode("hola mundo", 33), false)
+    it ('debería retornar false para "hola mundo/" con offset 33', () => {
+      assert.equal(window.cipher.decode("hola mundo/", 33), false)
     });
   });
 });
