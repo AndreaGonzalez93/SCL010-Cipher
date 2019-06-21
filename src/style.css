@@ -5,7 +5,7 @@ body{
 
 }
  input[type = "text"] {
-     border: 2px solid rgb(125, 156, 170);
+     border: 2px solid rgb(176, 182, 185);
  }
 
 
@@ -14,9 +14,9 @@ button{
     margin: 6px ;
     border-radius: 20px;
     padding: 7px 18px;
-    color: #5f5f5f;
+    color: #6e6868;
     background-color: #ffffff;
-    border: 2px solid #c5c2c2;
+    border: 2px solid #3c6069;
     font-weight: bold;
     box-shadow: 5px 5px #e2e1e1
     
