@@ -4,6 +4,9 @@ body{
     font-family: 'Roboto', sans-serif;
 
 }
+ input[type = "text"] {
+     border: 2px solid rgb(125, 156, 170);
+ }
 
 
 button{
