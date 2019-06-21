@@ -22,7 +22,7 @@ btncreateencryptyon.addEventListener('click', () => {
     let offset = parseInt(document.getElementById('offset').value);
     let palabraCifrada = cipher.encode(input, offset);
     if (palabraCifrada === false) {
-      alert("se ingresaron caracteres no permitidos , verifirque NO TENER ESPACION NI SIMBOLOS");
+      alert("se ingresaron caracteres no permitidos , verifirque NO TENER ESPACIO NI SIMBOLOS");
     } else {
       document.getElementById('create-encryptyon').style.display = 'none';
       document.getElementById('final').style.display = 'block';
@@ -48,7 +48,7 @@ btndescipherf.addEventListener('click', () => {
     let offset = parseInt(document.getElementById('offset2').value);
     let palabraDesCifrada = cipher.decode(input, offset);
     if (palabraDesCifrada === false) {
-      alert("se ingresaron caracteres no permitidos , verifirque NO TENER ESPACION NI SIMBOLOS");
+      alert("se ingresaron caracteres no permitidos , verifirque NO TENER ESPACIO NI SIMBOLOS");
     } else {
       document.getElementById('decipherp').style.display = 'none';
       document.getElementById('final').style.display = 'block';

@@ -1,6 +1,12 @@
 body{
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#final {
+    padding-top: 30px
 }
 
 
@@ -33,6 +39,11 @@ button:hover{
     width: 13%;
     height: 13%;
 }
+#logo-final{
+    width: 13%;
+    height: 13%;
+}
+
 
 #error-input{
     color:  #c42626;
@@ -40,4 +51,8 @@ button:hover{
 
 #error-inputd{
     color :  #c42626 ;
+}
+
+#msajelevelcipher{
+font-weight: bold;
 }
