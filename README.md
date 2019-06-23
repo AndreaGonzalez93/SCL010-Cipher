@@ -15,18 +15,18 @@ Bueno este proyecto fue pensado en ese tipo de situaciones , muchas veces hemos 
 ## Diagrama de Flujo.
 
 Cuando se inicio esta idea se creo un “Diagrama de Flujo” para poder saber de que forma se llevaría a cabo  los procesos y la información de la “APP WEB” .
-https://i.ibb.co/z63XZzV/Whats-App-Image-2019-06-23-at-00-06-21.jpg
+![Alt text](https://i.ibb.co/z63XZzV/Whats-App-Image-2019-06-23-at-00-06-21.jpg)
 
 ## WireFrame (“boceto de pagina web ”). 
 
 Luego de crear el Diagrama de Flujo , se procedió a crear en forma de boceto la idealización de la pagina web , la cual se fue modificando de acuerdo a los “FeedBack” recibidos en clases.
 
-https://i.ibb.co/wrBHyyt/Whats-App-Image-2019-06-23-at-00-32-00.jpg
+![Alt text](https://i.ibb.co/wrBHyyt/Whats-App-Image-2019-06-23-at-00-32-00.jpg)
 
 ## Organización del proyecto con “Trello”.
 
 Se dividió el proyecto en pequeñas tareas a realizar en un “kanban” hecho en la app trello
-https://i.ibb.co/ZxQ99Vq/Captura-de-pantalla-2019-06-23-01-21-01.png
+![Alt text](https://i.ibb.co/ZxQ99Vq/Captura-de-pantalla-2019-06-23-01-21-01.png)
 
 ##Link para ver Demo
 
