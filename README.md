@@ -28,7 +28,7 @@ Luego de crear el Diagrama de Flujo , se procedió a crear en forma de boceto la
 Se dividió el proyecto en pequeñas tareas a realizar en un “kanban” hecho en la app trello
 ![Alt text](https://i.ibb.co/ZxQ99Vq/Captura-de-pantalla-2019-06-23-01-21-01.png)
 
-#Link para ver Demo
+## Link para ver Demo
 
 https://andreagonzalez93.github.io/SCL010-Cipher/src/index.html
 
