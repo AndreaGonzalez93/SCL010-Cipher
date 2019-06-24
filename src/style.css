@@ -2,6 +2,7 @@ body{
     text-align: center;
     padding-top: 50px;
     font-family: 'Roboto', sans-serif;
+    background-color: hex( #F2F2F2)
 }
 
  input[type = "text"] {
